@@ -10,12 +10,12 @@ const CONFIG = {
     github: "adi2p30",
     instagram: "adi2p30",
   },
-  // projects: [
-  //   {
-  //     name: `morethan-log`,
-  //     href: "",
-  //   },
-  // ],
+  projects: [
+    {
+      name: `morethan-log`,
+      href: "",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "morethan-log",
