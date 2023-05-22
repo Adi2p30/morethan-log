@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "blog.adityapachpande.in",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "adi2p30/morethan-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
